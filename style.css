@@ -1,0 +1,33 @@
+body {
+    background-color: green;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: 100px;
+
+}
+h1{
+    color: goldenrod;
+    font-size: 70px;
+}
+#message-el {
+    text-align: center;
+    font-size: 25px;
+}
+
+button {
+    font-size: 20px;
+    color: #016f32;
+    width: 150px;
+    height: 35px;
+    background-color: goldenrod;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    display: flex;
+    margin-left: 45%;
+    margin-top: 10px;
+    padding-top: 5px;
+    justify-content: center;
+}
